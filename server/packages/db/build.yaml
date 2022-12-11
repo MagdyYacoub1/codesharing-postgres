@@ -1,0 +1,6 @@
+targets:
+  $default:
+    builders:
+      stormberry:
+        generate_for:
+          - lib/src/db_models.dart
